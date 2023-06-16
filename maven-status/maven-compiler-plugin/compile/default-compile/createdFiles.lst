@@ -1,0 +1,6 @@
+com/perez/demo/DemoApplication.class
+com/perez/demo/Student/StudentService.class
+com/perez/demo/Student/StudentRepository.class
+com/perez/demo/Student/StudentController.class
+com/perez/demo/Student/Student.class
+com/perez/demo/Student/StudentConfig.class
